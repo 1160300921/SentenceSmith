@@ -1,0 +1,2 @@
+# SentenceSmith
+Codebase for SentenceSmith
